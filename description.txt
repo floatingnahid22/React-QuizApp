@@ -10,3 +10,5 @@ select prettier-code formatter as default formatter.
 
 then go to worksspace and create vs code folder 
 and write settings.json by clicking beside split button.
+
+then you can modify your src foder and start the app. 
