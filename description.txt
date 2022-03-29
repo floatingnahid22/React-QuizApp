@@ -1,0 +1,12 @@
+Create App:
+npx create-react-app appname
+
+then open on vx code or others code editor amd make
+sure you have extension named ESLint and Prettier-code
+Formatter. 
+
+then go to settings and Default Formatter and 
+select prettier-code formatter as default formatter. 
+
+then go to worksspace and create vs code folder 
+and write settings.json by clicking beside split button.
