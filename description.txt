@@ -12,3 +12,12 @@ then go to worksspace and create vs code folder
 and write settings.json by clicking beside split button.
 
 then you can modify your src foder and start the app. 
+
+for routing used react-router-dom version- 5.2.0
+to install it - 
+$ npm install react-router-dom@5.2.0
+if your router dom version higher than this then routing couldn't 
+work. If you have higher version then uninstall it 
+to uninstall-
+$ npm uninstall react-router-dom
+
