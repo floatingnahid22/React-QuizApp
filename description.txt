@@ -21,3 +21,7 @@ work. If you have higher version then uninstall it
 to uninstall-
 $ npm uninstall react-router-dom
 
+
+to remove any file from github:
+$ git rm .env.local --cached 
+then you have to commit. 
