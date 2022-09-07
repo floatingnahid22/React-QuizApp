@@ -1,6 +1,6 @@
 #Project Deployed in Netlify.
-link: https://jolly-smakager-e6d8d2.netlify.app/
 
+[[quiz app](https://i.postimg.cc/TwF8TWxg/quizapp.png)](https://jolly-smakager-e6d8d2.netlify.app/)
 
 # Getting Started with Create React App
 
