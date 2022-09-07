@@ -1,10 +1,6 @@
-#Project Deployed in Netlify.
-
-[[quiz app](https://i.postimg.cc/TwF8TWxg/quizapp.png)](https://jolly-smakager-e6d8d2.netlify.app/)
-
 # Getting Started with Create React App
 
-[![quiz app](Capture.PNG)](https://jolly-smakager-e6d8d2.netlify.app/)
+[![quiz app](https://i.postimg.cc/TwF8TWxg/quizapp.png)](https://jolly-smakager-e6d8d2.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
